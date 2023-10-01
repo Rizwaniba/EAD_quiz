@@ -1,0 +1,243 @@
+.dashboard {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard .overlap-group-wrapper {
+  background-color: rgba(255, 255, 255, 1);
+  background: linear-gradient(180deg, rgb(51, 204, 255) 0%, rgb(255, 153, 204) 100%);
+  width: 914px;
+  height: 608px;
+}
+
+.dashboard .overlap-group {
+  position: relative;
+  width: 856px;
+  height: 560px;
+  top: 24px;
+  left: 29px;
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+
+.dashboard .ellipse {
+  position: absolute;
+  width: 120px;
+  height: 122px;
+  top: 68px;
+  left: 153px;
+  object-fit: cover;
+}
+
+.dashboard .text-wrapper {
+  position: absolute;
+  width: 128px;
+  top: 113px;
+  left: 287px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .overlap {
+  position: absolute;
+  width: 310px;
+  height: 76px;
+  top: 86px;
+  left: 505px;
+  background: linear-gradient(180deg, rgb(51, 204, 255) 0%, rgb(255, 153, 204) 100%);
+}
+
+.dashboard .div {
+  position: absolute;
+  width: 242px;
+  height: 54px;
+  top: 10px;
+  left: 34px;
+  font-family: "Aclonica", Helvetica;
+  font-weight: 400;
+  color: #f00000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .rectangle {
+  width: 683px;
+  top: 259px;
+  background: linear-gradient(180deg, rgb(255, 153, 204) 0%, rgba(217, 217, 217, 0) 100%);
+  position: absolute;
+  height: 21px;
+  left: 120px;
+}
+
+.dashboard .rectangle-2 {
+  width: 695px;
+  top: 456px;
+  background: linear-gradient(180deg, rgb(51, 204, 255) 0%, rgba(217, 217, 217, 0) 100%);
+  position: absolute;
+  height: 21px;
+  left: 120px;
+}
+
+.dashboard .text-wrapper-2 {
+  position: absolute;
+  width: 238px;
+  top: 289px;
+  left: 144px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-3 {
+  position: absolute;
+  width: 238px;
+  top: 348px;
+  left: 144px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-4 {
+  position: absolute;
+  width: 238px;
+  top: 402px;
+  left: 144px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-5 {
+  top: 291px;
+  position: absolute;
+  width: 206px;
+  left: 402px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #f20808;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-6 {
+  top: 348px;
+  position: absolute;
+  width: 206px;
+  left: 402px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #f20808;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-7 {
+  top: 404px;
+  position: absolute;
+  width: 206px;
+  left: 402px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #f20808;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .div-wrapper {
+  position: absolute;
+  width: 75px;
+  height: 24px;
+  top: 114px;
+  left: 0;
+  background-color: #ff99cc;
+}
+
+.dashboard .text-wrapper-8 {
+  position: absolute;
+  width: 68px;
+  top: 3px;
+  left: 7px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #0f0303;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .overlap-2 {
+  position: absolute;
+  width: 75px;
+  height: 24px;
+  top: 166px;
+  left: 0;
+  background-color: #ff99cc;
+}
+
+.dashboard .overlap-3 {
+  position: absolute;
+  width: 75px;
+  height: 24px;
+  top: 220px;
+  left: 0;
+  background-color: #ff99cc;
+}
+
+.dashboard .text-wrapper-9 {
+  position: absolute;
+  width: 68px;
+  top: 1px;
+  left: 7px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #0f0303;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .overlap-4 {
+  position: absolute;
+  width: 75px;
+  height: 24px;
+  top: 274px;
+  left: 0;
+  background-color: #ff99cc;
+}

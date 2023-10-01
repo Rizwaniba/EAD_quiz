@@ -1,0 +1,181 @@
+.login-page {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login-page .overlap-group-wrapper {
+  background-color: rgba(255, 255, 255, 1);
+  background: linear-gradient(180deg, rgb(51, 204, 255) 0%, rgb(255, 153, 204) 100%);
+  width: 914px;
+  height: 608px;
+}
+
+.login-page .overlap-group {
+  position: relative;
+  width: 856px;
+  height: 560px;
+  top: 22px;
+  left: 28px;
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+
+.login-page .rectangle {
+  position: absolute;
+  width: 402px;
+  height: 510px;
+  top: 27px;
+  left: 56px;
+  background: linear-gradient(180deg, rgba(255, 153, 204, 0.31) 0%, rgba(51, 204, 255, 0.12) 100%);
+}
+
+.login-page .div {
+  position: absolute;
+  width: 374px;
+  height: 510px;
+  top: 27px;
+  left: 453px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 153, 204) 0%,
+    rgb(51, 204, 255) 85.94%,
+    rgba(71.33, 205.59, 250.35, 0.88) 99.99%,
+    rgba(217, 217, 217, 0) 100%
+  );
+}
+
+.login-page .line {
+  top: 281px;
+  position: absolute;
+  width: 344px;
+  height: 1px;
+  left: 85px;
+  object-fit: cover;
+}
+
+.login-page .img {
+  top: 369px;
+  position: absolute;
+  width: 344px;
+  height: 1px;
+  left: 85px;
+  object-fit: cover;
+}
+
+.login-page .rectangle-2 {
+  position: absolute;
+  width: 344px;
+  height: 46px;
+  top: 410px;
+  left: 85px;
+  background: linear-gradient(180deg, rgb(255, 153, 204) 0%, rgba(51, 204, 255, 0.31) 100%);
+}
+
+.login-page .text-wrapper {
+  position: absolute;
+  top: 75px;
+  left: 284px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #33ccff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .text-wrapper-2 {
+  top: 75px;
+  left: 360px;
+  position: absolute;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .text-wrapper-3 {
+  top: 193px;
+  left: 91px;
+  position: absolute;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .text-wrapper-4 {
+  position: absolute;
+  width: 160px;
+  top: 254px;
+  left: 81px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #9c9898;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-page .text-wrapper-5 {
+  position: absolute;
+  width: 160px;
+  top: 348px;
+  left: 85px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #9c9898;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-page .vector {
+  position: absolute;
+  width: 27px;
+  height: 21px;
+  top: 255px;
+  left: 401px;
+}
+
+.login-page .vector-2 {
+  position: absolute;
+  width: 16px;
+  height: 20px;
+  top: 342px;
+  left: 406px;
+}
+
+.login-page .task-list {
+  position: absolute;
+  width: 348px;
+  height: 318px;
+  top: 138px;
+  left: 491px;
+}
+
+.login-page .text-wrapper-6 {
+  position: absolute;
+  width: 179px;
+  top: 423px;
+  left: 156px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
